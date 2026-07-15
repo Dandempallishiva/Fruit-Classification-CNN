@@ -84,7 +84,17 @@ The model successfully learned visual features from the selected fruit classes a
 - Validation Accuracy
 - Training Loss
 - Validation Loss
+### Training Accuracy
 
+![Training Accuracy](images/accuracy.png)
+
+### Training Loss
+
+![Training Loss](images/loss.png)
+
+### Sample Prediction
+
+![Sample Prediction](images/prediction.png)
 ## Repository Structure
 
 Fruit-Classification-CNN
